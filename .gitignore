@@ -1,3 +1,7 @@
+# Defaults
+*
+!/**/
+!*.*
 # Object files
 *.o
 *.ko
